@@ -75,3 +75,6 @@ footer {
 @media(max-width:768px){
     .hero h2 { font-size:30px; }
 }
+img{
+  height: 44px;
+}
